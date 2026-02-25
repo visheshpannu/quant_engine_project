@@ -135,6 +135,6 @@ Portfolio research projects
 
 📬 Author
 
-Vishesh Pannu
+Vishesh Singh
 Computer Science Student | Quant & Backend Developer
 Focused on systematic trading systems and financial engineering.
